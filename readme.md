@@ -1,11 +1,11 @@
-# @voorhoede/vue-lazy-load
+# @Inaztm/vue-week-calendar
 
-[![npm version](https://img.shields.io/npm/v/@voorhoede/vue-lazy-load)](https://www.npmjs.com/package/@voorhoede/vue-lazy-load)
+[![npm version](https://img.shields.io/npm/v/@Inaztm/vue-week-calendar)](https://www.npmjs.com/package/@Inaztm/vue-week-calendar)
 
-**Component to lazy load content using the Intersection Observer API**
+**Component week canedar**
 
-See [docs](https://vue-lazy-load.netlify.com) for more information.
+<!-- See [docs](https://vue-lazy-load.netlify.com) for more information. -->
 
 ## License
 
-[MIT Licensed](license) by [De Voorhoede](https://www.voorhoede.nl)
+[MIT Licensed](license)
